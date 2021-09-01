@@ -32,3 +32,4 @@ def palindrome_check(string):
     return True
   
   return False
+print(palindrom_check("abcdcba")
